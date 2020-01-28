@@ -254,23 +254,29 @@
     <Reference Include="Zenject.ReflectionBaking.Mono.Cecil.Rocks">
       <HintPath>Assets/Plugins/Zenject/OptionalExtras/ReflectionBaking/Lib/Zenject.ReflectionBaking.Mono.Cecil.Rocks.dll</HintPath>
     </Reference>
+    <Reference Include="Castle.Core">
+      <HintPath>Assets/Plugins/Zenject/OptionalExtras/TestFramework/Editor/Moq/Castle.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Moq">
+      <HintPath>Assets/Plugins/Zenject/OptionalExtras/TestFramework/Editor/Moq/Moq.dll</HintPath>
+    </Reference>
     <Reference Include="Zenject-usage">
       <HintPath>Assets/Plugins/Zenject/Source/Usage/Zenject-usage.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Advertisements">
-      <HintPath>D:/Unity Projects/WhaleBoxTest/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
+      <HintPath>C:/Users/User/Desktop/GitRepos/PlappyBird/Andriod/FlappyBirdZenjectAndriod/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>D:/Unity Projects/WhaleBoxTest/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>C:/Users/User/Desktop/GitRepos/PlappyBird/Andriod/FlappyBirdZenjectAndriod/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>D:/Unity Projects/WhaleBoxTest/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/User/Desktop/GitRepos/PlappyBird/Andriod/FlappyBirdZenjectAndriod/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>D:/Unity Projects/WhaleBoxTest/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>C:/Users/User/Desktop/GitRepos/PlappyBird/Andriod/FlappyBirdZenjectAndriod/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Purchasing">
-      <HintPath>D:/Unity Projects/WhaleBoxTest/Library/PackageCache/com.unity.purchasing@2.0.6/Editor/UnityEditor.Purchasing.dll</HintPath>
+      <HintPath>C:/Users/User/Desktop/GitRepos/PlappyBird/Andriod/FlappyBirdZenjectAndriod/Library/PackageCache/com.unity.purchasing@2.0.6/Editor/UnityEditor.Purchasing.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2019.1.0f2\Editor\Data\NetStandard\ref\2.0.0\netstandard.dll</HintPath>
@@ -681,6 +687,9 @@
     <None Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Media\Imported\Shaders\AddSmooth_Layer.shader" />
     <None Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Media\Imported\Shaders\Add_Layer.shader" />
     <None Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Media\Imported\Shaders\Particle Alpha Blend_IgnoreFog.shader" />
+    <None Include="Assets\Plugins\Zenject\OptionalExtras\TestFramework\Editor\Moq\License.txt" />
+    <None Include="Assets\Plugins\Zenject\OptionalExtras\TestFramework\Editor\Moq\Source.txt" />
+    <None Include="Assets\Plugins\Zenject\OptionalExtras\TestFramework\Editor\ReadMe.txt" />
     <None Include="Assets\Plugins\Zenject\Source\Usage\link.xml" />
     <None Include="Assets\Plugins\Zenject\Version.txt" />
     <None Include="Packages\com.unity.collab-proxy\Editor\Resources\Styles\CollabHistoryCommon.uss" />
